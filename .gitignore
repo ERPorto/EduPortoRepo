@@ -1,0 +1,4 @@
+#Ingnora Archivos de texto
+*.txt
+#Ignora el Arch Backgroud.jpg
+Backgroud.jpg
